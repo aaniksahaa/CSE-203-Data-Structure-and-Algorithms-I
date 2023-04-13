@@ -1,0 +1,28 @@
+Breadth-First Search:
+
+Set of vertices: 1 2 3 4 5 6 7 9 8 
+
+Set of edges:
+(1, 2)
+(1, 3)
+(2, 4)
+(2, 5)
+(3, 6)
+(3, 7)
+(4, 9)
+(4, 8)
+
+
+Depth-First Search:
+
+Set of vertices: 1 2 4 9 8 5 3 6 7 
+
+Set of edges:
+(1, 2)
+(2, 4)
+(4, 9)
+(4, 8)
+(2, 5)
+(1, 3)
+(3, 6)
+(3, 7)
